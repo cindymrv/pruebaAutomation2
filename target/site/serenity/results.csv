@@ -1,0 +1,5 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Product purchase flow test","Add two products to cart","SUCCESS","2023-07-23T15:18:18.471374-05:00[America/Bogota]","0.0","14.44"
+"Product purchase flow test","Buying products that are in the shopping cart","SUCCESS","2023-07-25T13:52:07.155638-05:00[America/Bogota]","0.0","41.28"
+"API consumption tests","Creating a user","FAILURE","2023-07-25T13:51:46.80346-05:00[America/Bogota]","0.0","4.0"
+"API consumption tests","Update user's name and email address","SUCCESS","2023-07-25T13:51:50.869859-05:00[America/Bogota]","0.0","0.47"

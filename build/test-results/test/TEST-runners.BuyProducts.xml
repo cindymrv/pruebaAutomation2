@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="runners.BuyProducts" tests="0" skipped="0" failures="0" errors="0" timestamp="1970-01-01T00:00:00" hostname="ip-192-168-1-30.ec2.internal" time="0.0">
+  <properties/>
+  <system-out><![CDATA[
+1 Scenarios (?[32m1 passed?[0m)
+5 Steps (?[32m5 passed?[0m)
+0m41,778s
+
+
+]]></system-out>
+  <system-err><![CDATA[[Test worker] INFO io.cucumber.core.plugin.SerenityReporter - Running feature from file:///Users/cindyrestrepo/Documents/pruebaAutomation/src/test/resources/features/add_products_to_cart.feature
+[Test worker] INFO  - ?[96m
+
+-------------------------------------------------------------------------------------
+     _______. _______ .______       _______ .__   __.  __  .___________.____    ____ 
+    /       ||   ____||   _  \     |   ____||  \ |  | |  | |           |\   \  /   / 
+   |   (----`|  |__   |  |_)  |    |  |__   |   \|  | |  | `---|  |----` \   \/   /  
+    \   \    |   __|  |      /     |   __|  |  . `  | |  |     |  |       \_    _/   
+.----)   |   |  |____ |  |\  \----.|  |____ |  |\   | |  |     |  |         |  |     
+|_______/    |_______|| _| `._____||_______||__| \__| |__|     |__|         |__|    
+                                                                                     
+ News and tutorials at http://www.serenity-bdd.info                                  
+ Documentation at https://wakaleo.gitbooks.io/the-serenity-book/content/             
+ Join the Serenity Community on Gitter: https://gitter.im/serenity-bdd/serenity-core 
+ Serenity BDD Support and Training at http://serenity-bdd.info/#/trainingandsupport  
+-------------------------------------------------------------------------------------
+?[0m
+[Test worker] INFO  - Test Suite Started: Product purchase flow test
+[pool-1-thread-1] INFO net.thucydides.core.reports.ReportService - net.thucydides.core.reports.json.JSONTestOutcomeReporter@2214a3f4: Generating report for test outcome: Product purchase flow test:Buying products that are in the shopping cart
+[pool-2-thread-1] INFO net.thucydides.core.reports.ReportService - net.thucydides.core.reports.html.HtmlAcceptanceTestReporter@1b68ea79: Generating report for test outcome: Product purchase flow test:Buying products that are in the shopping cart
+[pool-2-thread-1] INFO serenity.reporting - 
+------------------------------------------------------------
+| TEST NAME:   ?[1mBuying products that are in the shopping cart?[0m
+| RESULT:      ?[92mPassing?[0m
+| REQUIREMENT: Product purchase flow test
+| REPORT:      ?[96mfile:///Users/cindyrestrepo/Documents/pruebaAutomation/target/site/serenity/2b81588d5d23ff92ac38eb5db297c290e63c027199c179612a6807f0bab0d246.html?[0m
+------------------------------------------------------------
+]]></system-err>
+</testsuite>

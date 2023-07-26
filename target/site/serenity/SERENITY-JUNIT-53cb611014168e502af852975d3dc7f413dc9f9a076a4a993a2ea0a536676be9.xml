@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="1" name="API consumption tests" skipped="0" tests="2" time="4.47" timestamp="2023-07-25 01:51:46"><testcase name="Creating a user"><failure message="Status code is not as expected - &#10;Expected: &lt;true&gt;&#10;     but: was &lt;false&gt;" type="java.lang.AssertionError">Status code is not as expected - 
+Expected: &lt;true&gt;
+     but: was &lt;false&gt;</failure><system-err>Status code is not as expected - 
+Expected: &lt;true&gt;
+     but: was &lt;false&gt;
+stepdefinitions.Petstore.validateStatusCode(Petstore.java:38)
+✽.the service should answer me with a status code 200(file:///Users/cindyrestrepo/Documents/pruebaAutomation/src/test/resources/features/petstore.feature:23)
+</system-err></testcase><testcase name="Update user's name and email address"/></testsuite>

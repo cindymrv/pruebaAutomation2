@@ -1,0 +1,7 @@
+Conclusiones
+
+1. La prueba abarcó front y back, por lo cual me pareció muy completa.
+2. En el back el servicio para consultar el usuario creado responde un 404, realice la prueba en postman
+   y me arrojo el mismo resultado, por lo tanto ese escenario muestra el mensaje de error de que el status code no es el esperado.
+3. Los escenarios estaban relacionados entre sí, por eso en back un solo escenario válida que se cree el usuario y luego
+   lo valida y el otro escenario realiza la actualización y la consulta.

@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="0" name="Product purchase flow test" skipped="1" tests="2" time="14.46" timestamp="2023-07-23 03:18:18"><testcase name="Add two products to cart"/><testcase name="Buying products that are in the shopping cart"><skipped/></testcase></testsuite>
